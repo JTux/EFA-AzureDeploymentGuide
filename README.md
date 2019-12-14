@@ -17,7 +17,7 @@
 
 #### 7. Make sure you are in the App Service tab, click the Create New radio button
 
-#### 8. You should see something like this: ![CreateAppService](../../assets/AzureDeployment_CreateAppService.png)
+#### 8. You should see something like this: ![CreateAppService](./assets/AzureDeployment_CreateAppService.png)
 
 #### 9. Give the App Name something unique
 
